@@ -1,4 +1,4 @@
-Desafio docker
+Desafio docker (Docker hub link - patrickbj/codeeducation)
 
 Nesse desafio você terá duas tarefas extremamente importantes:
 
