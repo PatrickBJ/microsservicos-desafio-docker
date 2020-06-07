@@ -1,4 +1,8 @@
-Desafio docker (Docker hub link - patrickbj/codeeducation Código esta na pasta Parte 2 go lang)
+Desafio docker 
+
+Docker hub link: 
+https://hub.docker.com/repository/docker/patrickbj/codeeducation
+(O código esta na pasta Parte 2 go lang)
 
 Nesse desafio você terá duas tarefas extremamente importantes:
 
